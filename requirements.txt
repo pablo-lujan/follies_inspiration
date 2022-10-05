@@ -16,11 +16,4 @@ jupyterlite==0.1.0b13
 jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 theme-darcula
-jupyterlab-sidecar
 plotly>=4.14.3
-jupyterlab-system-monitor>=0.7.0
-ipylab>=0.4.1
-jupyter-fs>=0.3.1final0
-ipyregulartable>=0.2.0
-jupyterlab_templates>=0.3.0
-elyra>=2.0.0
