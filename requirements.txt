@@ -13,9 +13,14 @@ jupyterlab-geojson>=3,<4
 jupyterlab-tour
 jupyterlab_miami_nights
 jupyterlite==0.1.0b13
-jupyterlite-p5-kernel==0.1.0a12
-jupyterlite-xeus-lua==0.3.1
-jupyterlite-xeus-wren==0.2.1
 jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 theme-darcula
+jupyterlab-sidecar>=0.5.0
+plotly>=4.14.3
+jupyterlab-system-monitor>=0.7.0
+ipylab>=0.4.1
+jupyter-fs>=0.3.1final0
+ipyregulartable>=0.2.0
+jupyterlab_templates>=0.3.0
+elyra>=2.0.0
